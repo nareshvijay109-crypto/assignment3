@@ -1,0 +1,5 @@
+Compilation and execution validation (g++ -std=c++17 -Wall -Wextra -pedantic)
+
+All 11 source files were compiled successfully with no compiler warnings and exited with code 0. The corresponding program outputs are recorded in the OUTPUTS.txt file in each task folder.
+
+The output files are text transcripts, not screenshots. Sanitizer runs, benchmark timings and genuine terminal screenshots are environment-dependent and should be captured on the submission machine if required by the instructor.
