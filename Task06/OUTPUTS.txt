@@ -1,0 +1,5 @@
+### task06.cpp
+Exit Code: 0
+
+Hello World!
+[copy] true true
