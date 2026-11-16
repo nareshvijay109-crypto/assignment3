@@ -1,0 +1,8 @@
+### complete_code.cpp
+Exit Code: 0
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+
+### task02.cpp
+Exit Code: 0
+[copy constructor] Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+[copy constructor] 
