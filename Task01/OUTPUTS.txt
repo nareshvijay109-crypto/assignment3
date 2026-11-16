@@ -1,0 +1,8 @@
+### task01.cpp
+Exit Code: 0
+Untitled | Unknown | copies=0
+The Alchemist | Unknown | copies=1
+Clean Code | Unknown | copies=4
+C++ Primer | Lippman | copies=8
+Rejected: number of copies cannot be negative
+Explicit conversion | Unknown | copies=1
