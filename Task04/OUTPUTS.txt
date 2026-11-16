@@ -1,0 +1,11 @@
+### complete_code.cpp
+Exit Code: 0
+Rs 200.00
+true
+
+### task04.cpp
+Exit Code: 0
+Rs 200.00
+true
+Rs 1.25
+-Rs 1.25
