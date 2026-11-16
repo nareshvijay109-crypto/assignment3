@@ -1,0 +1,6 @@
+### task07.cpp
+Exit Code: 0
+R=10.000 + j0.000 ohm, |R|=10.000
+Series RLC impedance=10.000 - j0.415 ohm, magnitude=10.009
+Parallel R-L impedance=9.080 + j2.890 ohm
+Safe error: division by zero impedance
