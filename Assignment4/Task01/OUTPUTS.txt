@@ -1,0 +1,4 @@
+Anita #101 pay=79000
+Bala #102 pay=42600
+Charan #103 pay=48000
+Total=169600
