@@ -1,0 +1,3 @@
+Kavya MTech CSE 8.7 42000
+Mohan PhD fellowship=25000
+TA size is compiler/ABI dependent.
