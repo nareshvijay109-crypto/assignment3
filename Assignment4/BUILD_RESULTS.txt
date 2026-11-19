@@ -1,0 +1,1 @@
+Compiled locally with g++ -std=c++17 -Wall -Wextra -pedantic. Ten C++ source files compiled successfully and exited with code 0. See task OUTPUTS.txt files. Sanitizer evidence and genuine screenshots must be captured on the student's computer if required.
