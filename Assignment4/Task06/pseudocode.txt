@@ -1,0 +1,2 @@
+RENT: reject if already rented; otherwise mark rented and record dates.
+RETURN: reject if not rented; calculate charge(actualDays); add lateDays * lateFeePerDay if overdue; mark available and issue receipt.
