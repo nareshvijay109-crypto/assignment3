@@ -1,0 +1,2 @@
+3.5 4 3.5
+Non-virtual rate() is statically bound; virtual vrate() dispatches to SeniorAccount; copied Account is sliced.
